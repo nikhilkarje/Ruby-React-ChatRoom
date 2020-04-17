@@ -1,0 +1,9 @@
+export const Black = "#343434";
+export const BrightRed = "#ff0000";
+export const DarkGrey = "#808080";
+export const EggShellWhite = "#f0f0f0";
+export const FadedRed = "#d7385e";
+export const Green = "#6ac059";
+export const LightGrey = "#e6e6e6";
+export const Purple = "#556CD6";
+export const White = "#fff";

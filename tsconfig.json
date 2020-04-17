@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "outDir": "./backend/public/static/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "jsx": "react"
+  },
+  "include": ["./src"],
+  "exclude": ["node_modules", "lib"]
+}
